@@ -14,10 +14,7 @@ namespace VIJAYADESKTOP
         String query = String.Empty;
         DataSet ds;
         String gblId = "adyasha";
-        public BulkDispatch_Reception()
-        {
-            InitializeComponent();
-        }
+        
 
         private void BulkDispatch_Reception_Load(object sender, EventArgs e)
         {
