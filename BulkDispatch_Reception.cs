@@ -13,8 +13,7 @@ namespace VIJAYADESKTOP
     {
         String query = String.Empty;
         DataSet ds;
-        String gblId;
-
+        String gblId = "adyasha";
         public BulkDispatch_Reception()
         {
             InitializeComponent();
